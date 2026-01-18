@@ -34,4 +34,4 @@
 
 ---
 
-✨ *Let’s grow together!*  
+✨ *Let’s grow together!*   
