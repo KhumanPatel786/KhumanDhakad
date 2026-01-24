@@ -2,7 +2,7 @@
 
 🎓 MCA Student | 💻 Aspiring Software Developer | 🚀 C, Java & DSA  
 
----
+--- 
 
 ## 👨‍💻 About Me  
 
