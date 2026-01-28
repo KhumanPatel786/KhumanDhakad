@@ -49,8 +49,9 @@ I also enjoy blending **technology with creativity**, which reflects in my conte
 
 - Consistent learner  
 - Focused on fundamentals  
-- Believe in *learning by building*  
+- Believe in *learning by building*
 
+  
 ---
 
 ✨ *Always learning, always improving. Let’s grow together!*  
