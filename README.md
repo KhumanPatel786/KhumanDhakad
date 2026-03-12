@@ -12,3 +12,31 @@ Currently focusing on strengthening my skills in **Java, C, and Data Structures 
 I enjoy **building projects, solving coding problems, and exploring new technologies**. I also like combining **technology with creativity**, which inspires some of my side projects and digital content.
 
 ---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+* C
+* Java
+
+### Computer Science Fundamentals
+
+* Data Structures & Algorithms
+* Problem Solving
+* Basic Object-Oriented Programming
+
+### Web Development
+
+* HTML
+* CSS
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* GCC Compiler
+* Git Bash
+
+---
