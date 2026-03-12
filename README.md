@@ -40,3 +40,33 @@ I enjoy **building projects, solving coding problems, and exploring new technolo
 * Git Bash
 
 ---
+
+## 📂 Projects
+
+### 🧑‍🎓 Student Management System (C)
+
+Console-based application demonstrating:
+
+* Structures
+* File Handling
+* CRUD Operations
+* Menu-driven logic
+
+### 🧮 Java Console Projects
+
+Small Java projects focused on:
+
+* Logic building
+* Arrays and algorithms
+* Input handling
+* Problem solving
+
+### 🌐 Creative Websites
+
+Simple websites built using **HTML & CSS** focused on creative design and layout.
+
+### 🤖 AI Creative Content
+
+Experimenting with **AI-generated creative content and digital storytelling**.
+
+---
