@@ -97,3 +97,12 @@ Experimenting with **AI-generated creative content and digital storytelling**.
 ✔ Keep improving every day
 
 ---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/khuman-dhakad
+* LinkedIn: https://www.linkedin.com/in/khuman-dhakad/
+
+---
+
+⭐ *“Always learning, always building, always improving.”*
