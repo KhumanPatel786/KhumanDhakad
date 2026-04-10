@@ -78,6 +78,7 @@ Experimenting with **AI-generated creative content and digital storytelling**.
 * **Data Structures & Algorithms**
 * **Problem-solving for coding interviews**
 * **Software development best practices**
+* **Learning Daily**
 
 ---
 
