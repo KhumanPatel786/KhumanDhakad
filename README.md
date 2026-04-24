@@ -1,111 +1,18 @@
-# Hi, I'm Khuman Dhakad 👋
+# 💫 About Me:
+# Hi, I'm Khuman Dhakad 👋<br><br>🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 🚀 **Java, C & Data Structures Enthusiast**<br><br>---<br><br>## 👨‍💻 About Me<br><br>I am an **MCA student** passionate about **software development, problem-solving, and continuous learning**.<br>Currently focusing on strengthening my skills in **Java, C, and Data Structures & Algorithms (DSA)** while preparing for **software developer roles in top MNCs**.<br><br>I enjoy **building projects, solving coding problems, and exploring new technologies**. I also like combining **technology with creativity**, which inspires some of my side projects and digital content.<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### Programming Languages<br><br>* C<br>* Java<br><br>### Computer Science Fundamentals<br><br>* Data Structures & Algorithms<br>* Problem Solving<br>* Basic Object-Oriented Programming<br>* SQL<br><br>### Web Development<br><br>* HTML<br>* CSS<br><br>### Tools & Technologies<br><br>* Git<br>* GitHub<br>* VS Code<br>* GCC Compiler<br>* Git Bash<br><br>---<br><br>## 📂 Projects<br><br>### 🧑‍🎓 Student Management System (C)<br><br>Console-based application demonstrating:<br><br>* Structures<br>* File Handling<br>* CRUD Operations<br>* Menu-driven logic<br><br>### 🧮 Java Console Projects<br><br>Small Java projects focused on:<br><br>* Logic building<br>* Arrays and algorithms<br>* Input handling<br>* Problem solving<br><br>### 🌐 Creative Websites<br><br>Simple websites built using **HTML & CSS** focused on creative design and layout.<br><br>### 🤖 AI Creative Content<br><br>Experimenting with **AI-generated creative content and digital storytelling**.<br><br>---<br><br>## 📚 Currently Learning<br><br>* Advanced **Java Programming**<br>* **Data Structures & Algorithms**<br>* **Problem-solving for coding interviews**<br>* **Software development best practices**<br>* **Learning Daily**<br><br>---<br><br>## 🎯 Career Goals<br><br>* Become a **skilled Software Developer**<br>* Build **real-world projects**<br>* Improve **problem-solving & algorithmic thinking**<br>* Secure a **software engineering role in a reputed MNC**<br><br>---<br><br>## 📈 Learning Philosophy<br><br>✔ Learn fundamentals deeply<br>✔ Build projects while learning<br>✔ Practice coding consistently<br>✔ Keep improving every day<br><br>---<br><br>## 📫 Connect With Me<br><br>* GitHub: https://github.com/khuman-dhakad<br>* LinkedIn: https://www.linkedin.com/in/khuman-dhakad/<br><br>---<br><br>⭐ *“Always learning, always building, always improving.”*<br>let's connect and build together <br>
 
-🎓 **MCA Student** | 💻 **Aspiring Software Developer** | 🚀 **Java, C & Data Structures Enthusiast**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khuman-dhakad/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thekhuman__) 
 
-## 👨‍💻 About Me
-
-I am an **MCA student** passionate about **software development, problem-solving, and continuous learning**.
-Currently focusing on strengthening my skills in **Java, C, and Data Structures & Algorithms (DSA)** while preparing for **software developer roles in top MNCs**.
-
-I enjoy **building projects, solving coding problems, and exploring new technologies**. I also like combining **technology with creativity**, which inspires some of my side projects and digital content.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-* C
-* Java
-
-### Computer Science Fundamentals
-
-* Data Structures & Algorithms
-* Problem Solving
-* Basic Object-Oriented Programming
-* SQL
-
-### Web Development
-
-* HTML
-* CSS
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* GCC Compiler
-* Git Bash
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=khuman-dhakad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=khuman-dhakad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=khuman-dhakad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=khuman-dhakad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-### 🧑‍🎓 Student Management System (C)
-
-Console-based application demonstrating:
-
-* Structures
-* File Handling
-* CRUD Operations
-* Menu-driven logic
-
-### 🧮 Java Console Projects
-
-Small Java projects focused on:
-
-* Logic building
-* Arrays and algorithms
-* Input handling
-* Problem solving
-
-### 🌐 Creative Websites
-
-Simple websites built using **HTML & CSS** focused on creative design and layout.
-
-### 🤖 AI Creative Content
-
-Experimenting with **AI-generated creative content and digital storytelling**.
-
----
-
-## 📚 Currently Learning
-
-* Advanced **Java Programming**
-* **Data Structures & Algorithms**
-* **Problem-solving for coding interviews**
-* **Software development best practices**
-* **Learning Daily**
-
----
-
-## 🎯 Career Goals
-
-* Become a **skilled Software Developer**
-* Build **real-world projects**
-* Improve **problem-solving & algorithmic thinking**
-* Secure a **software engineering role in a reputed MNC**
-
----
-
-## 📈 Learning Philosophy
-
-✔ Learn fundamentals deeply
-✔ Build projects while learning
-✔ Practice coding consistently
-✔ Keep improving every day
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/khuman-dhakad
-* LinkedIn: https://www.linkedin.com/in/khuman-dhakad/
-
----
-
-⭐ *“Always learning, always building, always improving.”*
-let's connect and build together 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
